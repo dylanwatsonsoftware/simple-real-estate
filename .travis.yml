@@ -16,7 +16,7 @@ before_install:
 
 script:
   - ng github-pages:deploy
-  
+
 after_success:
 
 after_script:
