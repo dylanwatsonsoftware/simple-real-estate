@@ -20,5 +20,3 @@ script:
 after_success:
 
 after_script:
-  - git remote set-url origin https://$GH_TOKEN@github.com/lotsabackscatter/simple-real-estate.git
-  - git push origin gh-pages:gh-pages --force
