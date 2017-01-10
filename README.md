@@ -1,5 +1,4 @@
-# SimpleRealEstate [![CI Status](http://img.shields.io/travis/lotsabackscatter/simple-real-estate.svg?style=flat)]
-   (https://travis-ci.org/lotsabackscatter/simple-real-estate)
+# SimpleRealEstate [![CI Status](http://img.shields.io/travis/lotsabackscatter/simple-real-estate.svg?style=flat)](https://travis-ci.org/lotsabackscatter/simple-real-estate)
    
 Simplifies searching for real estate
 
